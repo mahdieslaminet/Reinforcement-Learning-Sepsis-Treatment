@@ -18,6 +18,8 @@
 
 لینک گزارش کار پروژه: https://drive.google.com/file/d/1KseMulxcz_QNy21w67itjIatSBR-wMyc/view?usp=sharing
 
+لینک Colab پروژه: https://colab.research.google.com/drive/1wKsrGo70PpTwHav6ROwdmkA4pQNyPGvv#scrollTo=JS1SRhPY73vS
+
 ---
 
 ## 🔹 ویژگی‌ها
