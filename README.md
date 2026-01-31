@@ -8,6 +8,16 @@
 
 الهام گرفته شده و پیاده‌سازی آن برای اهداف آموزشی و آزمایشی انجام شده است.
 
+لینک مقاله: https://drive.google.com/file/d/1DxSGKc0_2-ohozKju9q-Kp5f21nQLANG/view?usp=sharing
+
+لینک ترجمه مقاله: https://drive.google.com/file/d/1GCCxilvC_LvTMmiXtc9O6NhlW341mCYJ/view?usp=sharing
+
+لینک گوگل درایو ترجمه همه مقالات: https://github.com/Arshia-Ghazi/Special-Topics-in-Software-Engineering---Multimedia/issues/1
+
+لینک ویدیو اجرای پروژه: https://drive.google.com/file/d/1XbttLp9miwsdwJrN8wVoODtG7SqpznwM/view?usp=sharing
+
+لینک گزارش کار پروژه: https://drive.google.com/file/d/1KseMulxcz_QNy21w67itjIatSBR-wMyc/view?usp=sharing
+
 ---
 
 ## 🔹 ویژگی‌ها
